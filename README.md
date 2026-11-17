@@ -10,7 +10,7 @@ Desarrollo web desde Córdoba, Argentina. Formo parte de **[Clave Code](https://
 | **[Gestiapp](https://www.gestiapp.com.ar)** | SaaS de gestión para escuelas y academias deportivas: alumnos, cuotas, cobros con Mercado Pago | En producción · [App Store](https://apps.apple.com/ar/app/gestiapp/id6804172409) |
 | **[Bocado](https://www.bocadocarta.com)** | Carta digital con QR, pedidos online y pedidos en mesa para bares y restaurantes, con el directorio [Dónde Como](https://www.bocadocarta.com/donde-como) | En producción |
 
-> Los repositorios de estos productos son privados.
+> Todos mis proyectos están en el repositorio empresarial de **[Clave Code](https://github.com/Clave-Code)** (privados).
 
 ## 🛠️ Stack con el que trabajamos
 
@@ -21,7 +21,3 @@ Desarrollo web desde Córdoba, Argentina. Formo parte de **[Clave Code](https://
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## 📂 Proyectos personales
-
-- **[AltaGraciaTrofeosFinal](https://github.com/francoclavero/AltaGraciaTrofeosFinal)**: sitio web de Alta Gracia Trofeos (HTML, Bootstrap y Sass), mi trabajo final del curso de desarrollo web.
